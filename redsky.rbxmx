@@ -1,0 +1,52 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Sky" referent="RBXE0EDD2E328374AC09DDB3D85A05D81CB">
+		<Properties>
+			<bool name="CelestialBodiesShown">false</bool>
+			<float name="MoonAngularSize">11</float>
+			<Content name="MoonTextureContent">
+				<uri>rbxassetid://9545886960</uri>
+			</Content>
+			<Content name="SkyboxBackContent">
+				<uri>rbxassetid://9545886960</uri>
+			</Content>
+			<Content name="SkyboxDownContent">
+				<uri>rbxassetid://9545886960</uri>
+			</Content>
+			<Content name="SkyboxFrontContent">
+				<uri>rbxassetid://9545886960</uri>
+			</Content>
+			<Content name="SkyboxLeftContent">
+				<uri>rbxassetid://9545886960</uri>
+			</Content>
+			<Vector3 name="SkyboxOrientation">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+			</Vector3>
+			<Content name="SkyboxRightContent">
+				<uri>rbxassetid://9545886960</uri>
+			</Content>
+			<Content name="SkyboxUpContent">
+				<uri>rbxassetid://9545886960</uri>
+			</Content>
+			<int name="StarCount">0</int>
+			<float name="SunAngularSize">0</float>
+			<Content name="SunTextureContent">
+				<uri>rbxasset://sky/sun.jpg</uri>
+			</Content>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+			<bool name="DefinesCapabilities">false</bool>
+			<string name="Name">Skybox</string>
+			<BinaryString name="SerializedOverrides"></BinaryString>
+			<int64 name="SourceAssetId">11756106020</int64>
+			<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		</Properties>
+	</Item>
+	<SharedStrings>
+		<SharedString md5="yuZpQdnvvUBOTYh1jqZ2cA=="></SharedString>
+	</SharedStrings>
+</roblox>
