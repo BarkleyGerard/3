@@ -1,0 +1,560 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Tool" referent="RBX1EE744925E954CB7AEB0A77D5A3E8DC3">
+		<Properties>
+			<bool name="CanBeDropped">true</bool>
+			<bool name="Enabled">true</bool>
+			<CoordinateFrame name="Grip">
+				<X>0.283011168</X>
+				<Y>-9.94413292e-16</Y>
+				<Z>0.483010411</Z>
+				<R00>0.866025388</R00>
+				<R01>0</R01>
+				<R02>-0.5</R02>
+				<R10>0</R10>
+				<R11>1</R11>
+				<R12>0</R12>
+				<R20>0.5</R20>
+				<R21>0</R21>
+				<R22>0.866025388</R22>
+			</CoordinateFrame>
+			<bool name="ManualActivationOnly">false</bool>
+			<bool name="RequiresHandle">true</bool>
+			<string name="ToolTip">Three Soda</string>
+			<Content name="TextureContent">
+				<null></null>
+			</Content>
+			<Content name="ExplorerIconContent">
+				<null></null>
+			</Content>
+			<token name="LevelOfDetail">0</token>
+			<CoordinateFrame name="ModelMeshCFrame">
+				<X>12.1990376</X>
+				<Y>-8.02449894</Y>
+				<Z>-17.4430695</Z>
+				<R00>1</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>1</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>1</R22>
+			</CoordinateFrame>
+			<SharedString name="ModelMeshData">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+			<Vector3 name="ModelMeshSize">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+			</Vector3>
+			<token name="ModelStreamingMode">0</token>
+			<bool name="NeedsPivotMigration">false</bool>
+			<Ref name="PrimaryPart">null</Ref>
+			<float name="ScaleFactor">0.470868528</float>
+			<SharedString name="SlimHash">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+			<OptionalCoordinateFrame name="WorldPivotData">
+				<CFrame>
+					<X>13.056612</X>
+					<Y>0.941737175</Y>
+					<Z>-30.5774689</Z>
+					<R00>-1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>-1</R22>
+				</CFrame>
+			</OptionalCoordinateFrame>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+			<bool name="DefinesCapabilities">false</bool>
+			<string name="Name">Three Soda</string>
+			<BinaryString name="SerializedOverrides"></BinaryString>
+			<int64 name="SourceAssetId">-1</int64>
+			<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+		</Properties>
+		<Item class="UnionOperation" referent="RBXB722C76B2FEE49C9AFD235C389D8A707">
+			<Properties>
+				<BinaryString name="ChildData"></BinaryString>
+				<SharedString name="ChildData2">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				<int name="ComponentIndex">-1</int>
+				<Content name="Content">
+					<uri>https://www.roblox.com//asset/?id=86631140886029</uri>
+				</Content>
+				<token name="FormFactor">3</token>
+				<Vector3 name="InitialSize">
+					<X>2.00000072</X>
+					<Y>2</Y>
+					<Z>2</Z>
+				</Vector3>
+				<BinaryString name="MeshData"></BinaryString>
+				<SharedString name="MeshData2">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				<bool name="OffCentered">false</bool>
+				<BinaryString name="PhysicsData"></BinaryString>
+				<token name="RenderFidelity">0</token>
+				<float name="SmoothingAngle">0</float>
+				<NetAssetRef name="SolidMeshHolder">yuZpQdnvvUBOTYh1jqZ2cA==</NetAssetRef>
+				<int name="TriangleCount">0</int>
+				<bool name="UsePartColor">true</bool>
+				<SharedString name="AeroMeshData">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				<token name="FluidFidelityInternal">0</token>
+				<bool name="InertiaMigrated">true</bool>
+				<SharedString name="PhysicalConfigData">Pn4ToyazrEgM0k+9qTf6yQ==</SharedString>
+				<Vector3 name="UnscaledCofm">
+					<X>-6.22584685e-06</X>
+					<Y>-2.91209199e-17</Y>
+					<Z>9.31604638e-18</Z>
+				</Vector3>
+				<Vector3 name="UnscaledVolInertiaDiags">
+					<X>3.06078124</X>
+					<Y>3.59751821</Y>
+					<Z>3.59751821</Z>
+				</Vector3>
+				<Vector3 name="UnscaledVolInertiaOffDiags">
+					<X>4.90359748e-17</X>
+					<Y>3.66605083e-18</Y>
+					<Z>-2.95612249e-17</Z>
+				</Vector3>
+				<float name="UnscaledVolume">6.20166397</float>
+				<bool name="Anchored">false</bool>
+				<bool name="AudioCanCollide">true</bool>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>14.1751709</X>
+					<Y>0.941737056</Y>
+					<Z>-30.7191772</Z>
+					<R00>-1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>-1</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">true</bool>
+				<bool name="CanQuery">true</bool>
+				<bool name="CanTouch">true</bool>
+				<bool name="CastShadow">true</bool>
+				<string name="CollisionGroup">Default</string>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4288651692</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<bool name="EnableFluidForces">true</bool>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">false</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<string name="MaterialVariantSerialized"></string>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">1</float>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<Vector3 name="size">
+					<X>0.00100000005</X>
+					<Y>1.88347411</Y>
+					<Z>1.88058448</Z>
+				</Vector3>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<SecurityCapabilities name="Capabilities">17996771963439872</SecurityCapabilities>
+				<bool name="DefinesCapabilities">true</bool>
+				<string name="Name">Handle</string>
+				<BinaryString name="SerializedOverrides"></BinaryString>
+				<int64 name="SourceAssetId">-1</int64>
+				<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+			</Properties>
+			<Item class="Sound" referent="RBX63BD4ECFD7C749C983DCB52182722DAC">
+				<Properties>
+					<bool name="AcousticSimulationEnabled">true</bool>
+					<Content name="AudioContent">
+						<uri>rbxassetid://172556362</uri>
+					</Content>
+					<NumberRange name="LoopRegion">0 60000 </NumberRange>
+					<bool name="Looped">false</bool>
+					<bool name="PlayOnRemove">true</bool>
+					<NumberRange name="PlaybackRegion">0 60000 </NumberRange>
+					<bool name="PlaybackRegionsEnabled">false</bool>
+					<float name="PlaybackSpeed">1</float>
+					<bool name="Playing">false</bool>
+					<float name="RollOffMaxDistance">10000</float>
+					<float name="RollOffMinDistance">10</float>
+					<token name="RollOffMode">0</token>
+					<Ref name="SoundGroup">null</Ref>
+					<double name="TimePosition">0</double>
+					<float name="Volume">10</float>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<string name="Name">Splat</string>
+					<BinaryString name="SerializedOverrides"></BinaryString>
+					<int64 name="SourceAssetId">-1</int64>
+					<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				</Properties>
+			</Item>
+			<Item class="Attachment" referent="RBXD84C89090B2741EB90F4D90C33F6858A">
+				<Properties>
+					<CoordinateFrame name="CFrame">
+						<X>-9.53674316e-07</X>
+						<Y>-0.941737056</Y>
+						<Z>1.90734863e-06</Z>
+						<R00>1</R00>
+						<R01>-6.27656347e-13</R01>
+						<R02>0</R02>
+						<R10>6.27656347e-13</R10>
+						<R11>1</R11>
+						<R12>-0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<bool name="Visible">false</bool>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<string name="Name">Stage</string>
+					<BinaryString name="SerializedOverrides"></BinaryString>
+					<int64 name="SourceAssetId">-1</int64>
+					<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				</Properties>
+			</Item>
+			<Item class="Beam" referent="RBX4F1067EC05CD4C76B95714DECCFAB32C">
+				<Properties>
+					<Ref name="Attachment0">RBXE817DE778F6B4D1184B062E34647639A</Ref>
+					<Ref name="Attachment1">RBXD84C89090B2741EB90F4D90C33F6858A</Ref>
+					<float name="Brightness">1</float>
+					<ColorSequence name="Color">0 1 1 1 0 1 1 1 1 0 </ColorSequence>
+					<float name="CurveSize0">0</float>
+					<float name="CurveSize1">0</float>
+					<bool name="Enabled">true</bool>
+					<bool name="FaceCamera">true</bool>
+					<float name="LightEmission">0</float>
+					<float name="LightInfluence">1</float>
+					<int name="Segments">10</int>
+					<Content name="TextureContent">
+						<uri>rbxassetid://12455338430</uri>
+					</Content>
+					<float name="TextureLength">1</float>
+					<token name="TextureMode">0</token>
+					<float name="TextureSpeed">0</float>
+					<NumberSequence name="Transparency">0 0 0 1 0 0 </NumberSequence>
+					<float name="Width0">2</float>
+					<float name="Width1">2</float>
+					<float name="ZOffset">0</float>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<string name="Name">bsoda</string>
+					<BinaryString name="SerializedOverrides"></BinaryString>
+					<int64 name="SourceAssetId">-1</int64>
+					<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				</Properties>
+			</Item>
+			<Item class="Attachment" referent="RBXE817DE778F6B4D1184B062E34647639A">
+				<Properties>
+					<CoordinateFrame name="CFrame">
+						<X>-2.86102295e-06</X>
+						<Y>0.941737294</Y>
+						<Z>-3.81469727e-06</Z>
+						<R00>1</R00>
+						<R01>-6.27656347e-13</R01>
+						<R02>0</R02>
+						<R10>6.27656347e-13</R10>
+						<R11>1</R11>
+						<R12>-0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<bool name="Visible">false</bool>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<string name="Name">Head</string>
+					<BinaryString name="SerializedOverrides"></BinaryString>
+					<int64 name="SourceAssetId">-1</int64>
+					<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="Script" referent="RBX1CDF90C5A3AB456E8FC695FF774CEA02">
+			<Properties>
+				<ProtectedString name="Source"><![CDATA[-- 23/5/2018 --
+-- CAN'T USE PHYSICSSERVICE ON CAN'T COLLIDE PART! --
+-- 26/5/2018 --
+-- 27/5/2018: if the spill is too THICC then it will push people even harder --
+remote = script.Parent:WaitForChild("SodaRemote")
+tool = script.Parent
+
+remote.OnServerInvoke = function(plr, torso)
+	-- let the principal knows that you are drinking in halls  26/5/2018 --
+	local drinktag = Instance.new("BoolValue")
+	drinktag.Name = 'drinking'
+	drinktag.Parent = plr.Character
+	game.Debris:AddItem(drinktag, 1)
+	
+	local spill = Instance.new("Part")
+	spill.Name = 'Bloxy Spill'
+	spill.Size = Vector3.new(12,12,.5)
+	spill.Transparency = 1
+	spill.CFrame = torso.CFrame * CFrame.new(0,2,-3)
+	spill.CanCollide = false -- will be changed in the next step
+	
+	local bill = Instance.new("BillboardGui")
+	bill.Size = UDim2.new(10,0,10,0)
+	bill.Parent = spill
+	local imglab = Instance.new("ImageLabel")
+	imglab.BackgroundTransparency = 1
+	imglab.Size = UDim2.new(1,0,1,0)
+	
+	
+	if script.Parent:FindFirstChild("OldSplitSprite") ~= nil then
+		if script.Parent:FindFirstChild('OldSplitSprite').Value == false then
+			imglab.Image = 'http://www.roblox.com/asset/?id=16620307744'
+			if script.Parent:FindFirstChild('Spinning') ~= nil then
+				local spn = script.Parent:FindFirstChild('Spinning'):Clone()
+				spn.Parent = imglab
+				spn.Enabled = true
+			end
+		else
+			imglab.Image = 'http://www.roblox.com/asset/?id=16539171436'
+		end
+	else
+		imglab.Image = 'http://www.roblox.com/asset/?id=16539171436'
+	end
+	imglab.Parent = bill
+	imglab.ResampleMode = Enum.ResamplerMode.Pixelated
+	
+	local tag = Instance.new("ObjectValue")
+	tag.Name = 'creator'
+	tag.Value = plr.Character
+	tag.Parent = spill
+	
+	spill.Parent = workspace
+	game.Debris:AddItem(spill, 10)
+	
+	local bv = Instance.new("BodyVelocity")
+	bv.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+	bv.Velocity = ((torso.CFrame * CFrame.new(0,0,-5)).p - torso.CFrame.p).unit * 20 -- lookVector doesn't work? 23/5/2018
+	bv.Parent = spill
+	local gyro = Instance.new"BodyGyro"
+	gyro.MaxTorque = Vector3.new(math.huge,math.huge,math.huge)
+	gyro.CFrame = spill.CFrame
+	gyro.Parent = spill
+	
+	
+	--coroutine.resume(coroutine.create(function()
+	--	while wait() do
+	--		--spill.CFrame = spill.CFrame * CFrame.Angles(0, math.rad(10), 0)
+	--		imglab.Rotation = imglab.Rotation + 10
+	--	end
+	--end))
+	
+	local sodascr = script.SodaPush:Clone()
+	sodascr.Parent = spill
+	sodascr.Disabled = false
+	
+	if tool.ToolRemove.Value == true then
+	tool:Destroy()
+	end
+	
+	return spill
+end
+]]></ProtectedString>
+				<bool name="Disabled">false</bool>
+				<Content name="LinkedSource"><null></null></Content>
+				<token name="RunContext">0</token>
+				<string name="ScriptGuid">{A402EB36-FE23-44C1-8474-3B69033CB92A}</string>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<SecurityCapabilities name="Capabilities">17996771963439872</SecurityCapabilities>
+				<bool name="DefinesCapabilities">true</bool>
+				<string name="Name">SodaEvent</string>
+				<BinaryString name="SerializedOverrides"></BinaryString>
+				<int64 name="SourceAssetId">-1</int64>
+				<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+			</Properties>
+			<Item class="Script" referent="RBX3557A6D2E281482AA32CC9E0BACFB657">
+				<Properties>
+					<ProtectedString name="Source"><![CDATA[-- 23/5/2018 --
+sp = script.Parent
+creator = sp:WaitForChild("creator")
+sp.Touched:Connect(function(hit)
+	if hit and hit.Parent then
+		local npc = hit.Parent
+		local hum = npc:FindFirstChildOfClass('Humanoid')
+		if hum then
+			local root = npc:FindFirstChild('HumanoidRootPart')
+			
+			if root and npc~=creator.Value then
+				root.Velocity = sp.CFrame.LookVector * 55
+			end
+			
+			local sodatag = Instance.new("BoolValue")
+			sodatag.Name = "soda'd"
+			sodatag.Parent = npc
+			game.Debris:AddItem(sodatag, 0.1)
+		end
+	end
+end)
+]]></ProtectedString>
+					<bool name="Disabled">true</bool>
+					<Content name="LinkedSource"><null></null></Content>
+					<token name="RunContext">0</token>
+					<string name="ScriptGuid">{E0775EE1-4D04-4E24-8CAB-C8566D6E986F}</string>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<SecurityCapabilities name="Capabilities">17996771963439872</SecurityCapabilities>
+					<bool name="DefinesCapabilities">true</bool>
+					<string name="Name">SodaPush</string>
+					<BinaryString name="SerializedOverrides"></BinaryString>
+					<int64 name="SourceAssetId">-1</int64>
+					<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="BoolValue" referent="RBXACE1C6E25721463F8A1AAA15A4387703">
+			<Properties>
+				<bool name="Value">true</bool>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<string name="Name">ToolRemove</string>
+				<BinaryString name="SerializedOverrides"></BinaryString>
+				<int64 name="SourceAssetId">-1</int64>
+				<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+			</Properties>
+		</Item>
+		<Item class="LocalScript" referent="RBX0D47D2DA303F4F49B196175E7151437B">
+			<Properties>
+				<ProtectedString name="Source"><![CDATA[-- 22/5/2018 --
+-- 25/5/2018 --
+plr = game.Players.LocalPlayer
+tool = script.Parent
+handle = tool:WaitForChild("Handle")
+remote = script.Parent:WaitForChild("SodaRemote")
+mouse = plr:GetMouse()
+tool.Activated:Connect(function()
+	local torso = plr.Character:FindFirstChild("HumanoidRootPart")
+	if torso then
+	remote:InvokeServer(torso) -- most of the soda system is in the remote script
+	handle.Splat:Play()
+	end
+end)
+
+]]></ProtectedString>
+				<bool name="Disabled">false</bool>
+				<Content name="LinkedSource"><null></null></Content>
+				<token name="RunContext">0</token>
+				<string name="ScriptGuid">{F725ED64-AE26-4780-82E5-CAE0CE266BA6}</string>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<SecurityCapabilities name="Capabilities">17996771963439872</SecurityCapabilities>
+				<bool name="DefinesCapabilities">true</bool>
+				<string name="Name">BsodaScript</string>
+				<BinaryString name="SerializedOverrides"></BinaryString>
+				<int64 name="SourceAssetId">-1</int64>
+				<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+			</Properties>
+		</Item>
+		<Item class="RemoteFunction" referent="RBXA91161E812374423B737A4C2864F5E3E">
+			<Properties>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<SecurityCapabilities name="Capabilities">17996771963439872</SecurityCapabilities>
+				<bool name="DefinesCapabilities">true</bool>
+				<string name="Name">SodaRemote</string>
+				<BinaryString name="SerializedOverrides"></BinaryString>
+				<int64 name="SourceAssetId">-1</int64>
+				<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+			</Properties>
+		</Item>
+		<Item class="BoolValue" referent="RBXE27BDFDA50E243F7887CF336E7102E1D">
+			<Properties>
+				<bool name="Value">false</bool>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<string name="Name">OldSplitSprite</string>
+				<BinaryString name="SerializedOverrides"></BinaryString>
+				<int64 name="SourceAssetId">-1</int64>
+				<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+			</Properties>
+		</Item>
+		<Item class="Script" referent="RBX02E8B5A4254240D29E3EE7C1B2F5C1E1">
+			<Properties>
+				<ProtectedString name="Source"><![CDATA[while wait(0) do
+	script.Parent.Rotation += 1
+end]]></ProtectedString>
+				<bool name="Disabled">true</bool>
+				<Content name="LinkedSource"><null></null></Content>
+				<token name="RunContext">0</token>
+				<string name="ScriptGuid">{BE8FB91B-EA3E-46EB-9072-DF3F132AE194}</string>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<SecurityCapabilities name="Capabilities">17996771963439872</SecurityCapabilities>
+				<bool name="DefinesCapabilities">true</bool>
+				<string name="Name">Spinning</string>
+				<BinaryString name="SerializedOverrides"></BinaryString>
+				<int64 name="SourceAssetId">-1</int64>
+				<SharedString name="Tags">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+			</Properties>
+		</Item>
+	</Item>
+	<SharedStrings>
+		<SharedString md5="Pn4ToyazrEgM0k+9qTf6yQ==">Q1NHUEhTCAAAAAIAKLUv/WCUAa0HABKHGyaQOR0QmoSm/ZegPU8pOQiUqEq0oqgMRAlkkUdy
+bCsyp9fREuL9U7ftP6PtsrLOhvCfsKrRqFdp/DF7nnVuNMrRdsGYvTZmz3pQCJ6wqovoCCMh
+SRaJAyECDnMxTASOwqHOMn3WtQ4aQBRtn7aATqhxvkBbXGjPYIrQmPUwkgV2iQc3i95U6mpf
+Q/NF9pI72XizxD7oR+Tf+SXKZjg4H86LmobKGRtsj7/FYN6d7VTd3AV/Ku+/qqfbt989rAZF
+AEsz8i6700ecv83HDsTFB9z27dNfQfYZVQmdrtTuH3cA112G3sGf/3NctWcVOPTPTyYV</SharedString>
+		<SharedString md5="yuZpQdnvvUBOTYh1jqZ2cA=="></SharedString>
+	</SharedStrings>
+</roblox>
